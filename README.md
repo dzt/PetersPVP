@@ -1,4 +1,7 @@
 # PetersPVP
+
+### This project is under active development and is not yet in it's final stage.
+
 PVP Arena system, intended to be used for my personal Garry's Mod server (but can be used on anybody's). My intention is to use this
 gamemode to build an arena system with a web-end that allows users to find their player stats and view tournament brackets and teams.
 
