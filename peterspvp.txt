@@ -1,6 +1,6 @@
 "peterspvp" {
 		"base"	"base"
-    "title"	"Peter's PVP"
+    "title"	"PeterPVP"
     "version"	"1.0.0"
 		"maps"	"^ppvp_"
 		"menusystem"	"1"
