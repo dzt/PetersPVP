@@ -1,0 +1,10 @@
+"peterspvp" {
+		"base"	"base"
+    "title"	"Peter's PVP"
+    "version"	"1.0.0"
+		"maps"	"^ppvp_"
+		"menusystem"	"1"
+    "author_name"	"Peter Soboyejo <thepcmrtim@gmail.com>"
+    "author_email"	"thepcmrtim@gmail.com"
+    "author_url"	"https://github.com/dzt/PetersPVP"
+}
